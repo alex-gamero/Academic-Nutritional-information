@@ -23,8 +23,9 @@ I found the concept interesting and decided to improve and expand upon it. This 
 
 ## 🛠 How to Run
 
+
 1. Clone the repository  
-   `git clone https://github.com/alex-gamero/NutritionInfo.git`
+   `git clone https://github.com/alex-gamero/Academic-Nutritional-information.git`
 
 2. Open in your IDE or compile with your preferred method
 
