@@ -6,7 +6,7 @@ I found the concept interesting and decided to improve and expand upon it. This 
 
 ---
 
-## ✨ Features
+## Features
 
 - Displays nutritional data such as calories, fats, proteins, and carbohydrates
 - Simple and clean interface
@@ -15,13 +15,13 @@ I found the concept interesting and decided to improve and expand upon it. This 
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Java 
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 
 1. Clone the repository  
@@ -33,7 +33,7 @@ I found the concept interesting and decided to improve and expand upon it. This 
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This project was originally created for academic purposes
 - The improvements were made as part of my personal initiative to deepen my skills
@@ -41,7 +41,7 @@ I found the concept interesting and decided to improve and expand upon it. This 
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 I'm still learning — if you'd like to contribute or suggest improvements, feel free to open an issue or pull request!
 
